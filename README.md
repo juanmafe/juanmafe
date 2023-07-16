@@ -18,7 +18,7 @@ public class PersonalInformation {
     /** The role. */
     private String role = "Security Software Engineer";
     
-    /** The language sponken. */
+    /** The language spoken. */
     private Locale[] languageSpoken = { Locale.US, Locale.SPAIN };
     
 }
