@@ -46,8 +46,6 @@ public class PersonalInformation {
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=brown)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
-### CI/CD
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
