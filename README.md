@@ -3,16 +3,23 @@
 ```java
 package com.github.juanmafe;
 
+import java.util.Locale;
 import lombok.Data;
 
+/**
+ * The Class SecuritySoftwareEngineer.
+ */
 @Data
-public class Security Software Engineer {
-
-	private String name = "Juan Manuel Fernàndez Reyes";
-
-	private String role = "Security Software Engineer";
-
-	private String[] languageSponken = {""zh_CN", "en_ES6"","Matematicas","Ciencias"};
-
+public class SecuritySoftwareEngineer {
+    
+    /** The name. */
+    private String name = "Juan Manuel";
+    
+    /** The role. */
+    private String role = "Security Software Engineer";
+    
+    /** The language sponken. */
+    private Locale[] languageSponken = { Locale.US, Locale.SPAIN };
+    
 }
 ```
