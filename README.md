@@ -35,9 +35,15 @@ public class PersonalInformation {
 ### Technologies
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### Editors
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=violet)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJIDEA)
+![Code](https://img.shields.io/badge/-Code-000?&logo=visual-studio&logoColor=blue)
