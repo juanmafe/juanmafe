@@ -7,10 +7,10 @@ import java.util.Locale;
 import lombok.Data;
 
 /**
- * The Class SecuritySoftwareEngineer.
+ * The Class PersonalInformation.
  */
 @Data
-public class SecuritySoftwareEngineer {
+public class PersonalInformation {
     
     /** The name. */
     private String name = "Juan Manuel";
