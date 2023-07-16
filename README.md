@@ -30,10 +30,13 @@ public class PersonalInformation {
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=white)
 
 ### Technologies
-
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb&logoColor=brown)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=blue)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -41,7 +44,7 @@ public class PersonalInformation {
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
 
 ### Editors
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=violet)
