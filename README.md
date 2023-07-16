@@ -53,10 +53,8 @@ public class PersonalInformation {
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins&logoColor=red)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=blue)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=blue)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana&logoColor=orange)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube&logoColor=4E9BCD)
-
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=blue)
 
 ### Software
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple&logoColor=F0F0F0)
