@@ -58,6 +58,7 @@ public class PersonalInformation {
 ### Software
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=apple&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white)
+![ZSH](https://img.shields.io/badge/-ZSH-000?&logo=windows-terminal&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=purple)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJIDEA&logoColor=white)
 ![Code](https://img.shields.io/badge/-Code-000?&logo=visual-studio&logoColor=blue)
