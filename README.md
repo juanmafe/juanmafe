@@ -36,6 +36,7 @@ public class PersonalInformation {
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-000?&logo=swagger&logoColor=green)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![JUnit](https://img.shields.io/badge/-JUnit-000?&logo=mocha&logoColor=green)
+![Pitest](https://img.shields.io/badge/-Pitest-000?&logo=Twitter&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=pink)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=Hibernate&logoColor=green)
