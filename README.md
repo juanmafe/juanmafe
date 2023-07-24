@@ -25,7 +25,7 @@ public class PersonalInformation {
 ```
 
 ### Languages
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=f5f5f5)
+![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=f5f5f5)
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
