@@ -38,7 +38,7 @@ public class PersonalInformation {
 ![JUnit](https://img.shields.io/badge/-JUnit-000?style=for-the-badge&logo=mocha&logoColor=green)
 ![Pitest](https://img.shields.io/badge/-Pitest-000?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-000?style=for-the-badge&logo=apachemaven&logoColor=pink)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&style=for-the-badgelogo=apachekafka)
+![Kafka](https://img.shields.io/badge/-Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-000?style=for-the-badge&logo=Hibernate&logoColor=green)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-000?style=for-the-badge&logo=Twitter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=green)
