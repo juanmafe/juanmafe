@@ -29,6 +29,7 @@ public class PersonalInformation {
 ![C++](https://img.shields.io/badge/-C++-232733?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-232733?style=for-the-badge&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-232733?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232733?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232733?style=for-the-badge&logo=TypeScript)
 
 ### Technologies
