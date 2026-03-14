@@ -16,7 +16,7 @@ public class PersonalInformation {
     private String name = "Juan Manuel";
     
     /** The role. */
-    private String[] roles = { "Tech Lead", "SecDevOps Engineer"};
+    private String[] roles = { "Tech Lead", "SecDevOps Engineer", "Software Architect"};
     
     /** The spoken languages. */
     private Locale[] spokenLanguages = { Locale.US, Locale.SPAIN };
