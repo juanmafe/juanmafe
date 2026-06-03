@@ -58,9 +58,9 @@ public class JuanManuel {
 - Dynamic Test Data (Instancio)
 
 ### Security & Governance
-- IT Risk Assessment
+- IT Risk
 - Data Governance (Classification, Retention & Deletion)
-- Data Risk Assessment (DRA)
+- Data Risk (DRA)
 - Security Baselines (SBL)
 - Secure SDLC
 - DevSecOps Controls
