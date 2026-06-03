@@ -42,12 +42,12 @@ public class JuanManuel {
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
 ### Security & Governance
-![IT Risk](https://img.shields.io/badge/-IT%20Risk-232733?style=for-the-badge&logo=theirishtimes&logoColor=white)
-![Data Risk (DRA)](https://img.shields.io/badge/-Data%20Risk-232733?style=for-the-badge&logo=databricks&logoColor=white)
+![IT Risk](https://img.shields.io/badge/-IT%20Risk-232733?style=for-the-badge&logo=theirishtimes&logoColor=orange)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-232733?style=for-the-badge&logo=databricks&logoColor=blue)
-![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-232733?style=for-the-badge&logo=circleci&logoColor=white)
-![Security Baselines](https://img.shields.io/badge/-Security%20Baselines-232733?style=for-the-badge&logo=shield&logoColor=red)
-![DevSecOps](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Data Risk (DRA)](https://img.shields.io/badge/-Data%20Risk%20(DRA)-232733?style=for-the-badge&logo=databricks&logoColor=white)
+![Security Baselines](https://img.shields.io/badge/-Security%20Baselines-232733?style=for-the-badge&logo=baseui&logoColor=red)
+![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-232733?style=for-the-badge&logo=circleci&logoColor=violet)
+![DevSecOps Controls](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=protools&logoColor=blue)
 
 ### Quality & Testing
 ![JUnit](https://img.shields.io/badge/-JUnit-232733?style=for-the-badge&logo=mocha&logoColor=green)
