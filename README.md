@@ -35,19 +35,19 @@ public class JuanManuel {
 
 ### Technologies
 ![Spring Boot](https://img.shields.io/badge/-Spring-232733?style=for-the-badge&logo=Spring)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-232733?style=for-the-badge&logo=swagger&logoColor=green)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-232733?style=for-the-badge&logo=Kubernetes)
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
 ### Security & Governance
-![IT Risk Assessment](https://img.shields.io/badge/-IT%20Risk%20Assessment-232733?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Data Risk Assessment (DRA)](https://img.shields.io/badge/-Data%20Risk%20Assessment-232733?style=for-the-badge&logo=databricks&logoColor=white)
+![IT Risk](https://img.shields.io/badge/-IT%20Risk-232733?style=for-the-badge&logo=theirishtimes&logoColor=white)
+![Data Risk (DRA)](https://img.shields.io/badge/-Data%20Risk-232733?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-232733?style=for-the-badge&logo=databricks&logoColor=blue)
-![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-232733?style=for-the-badge&logo=git&logoColor=white)
+![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-232733?style=for-the-badge&logo=circleci&logoColor=white)
 ![Security Baselines](https://img.shields.io/badge/-Security%20Baselines-232733?style=for-the-badge&logo=shield&logoColor=red)
-![DevSecOps Controls](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=azuredevops&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Quality & Testing
 ![JUnit](https://img.shields.io/badge/-JUnit-232733?style=for-the-badge&logo=mocha&logoColor=green)
