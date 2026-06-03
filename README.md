@@ -35,7 +35,7 @@ public class JuanManuel {
 
 ### Technologies
 ![Spring Boot](https://img.shields.io/badge/-Spring-232733?style=for-the-badge&logo=Spring)
-![Contract-First](https://img.shields.io/badge/-Contract%20First-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
+![Contract-First (OpenAPI/Protocol Buffers)](https://img.shields.io/badge/-Contract%20First%20(OpenAPI/Protocol%20Buffers)-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-232733?style=for-the-badge&logo=Kubernetes)
@@ -50,8 +50,10 @@ public class JuanManuel {
 ![DevSecOps Controls](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=protools&logoColor=blue)
 
 ### Quality & Testing
-![JUnit](https://img.shields.io/badge/-JUnit-232733?style=for-the-badge&logo=mocha&logoColor=green)
-![Testcontainers]
-![Contract Testing (Pact)]
-![Dynamic Testing (Instancio)]
-![Mutation Testing (PITest)](https://img.shields.io/badge/-Pitest-232733?style=for-the-badge&logo=mocha&logoColor=white)
+![JUnit](https://img.shields.io/badge/-JUnit-232733?style=for-the-badge&logo=junit5&logoColor=red)
+![Dynamic Testing (Instancio)](https://img.shields.io/badge/-Dynamic%20Testing%20(Instancio)-232733?style=for-the-badge&logo=insomnia&logoColor=green)
+![Mutation Testing (PITest)](https://img.shields.io/badge/-Mutation%20Testing%20(Pitest)-232733?style=for-the-badge&logo=fluentbit&logoColor=white)
+![Contract Testing (Pact)](https://img.shields.io/badge/-Contract%20Testing%20(Pact)-232733?style=for-the-badge&logo=langchain&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/-Testcontainers-232733?style=for-the-badge&logo=developmentcontainers&logoColor=green)
+
+
