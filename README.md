@@ -1,5 +1,7 @@
 <h1> Hi there 👋</h1>
 
+## Tech Lead with a backend engineering background focused on architecture, security and software quality
+
 ```java
 package com.github.juanmafe;
 
@@ -26,8 +28,6 @@ public class JuanManuel {
     };
 }
 ```
-
-## Tech Lead building backend systems with a focus on architecture, security and quality
 
 ### Mindset (how I approach systems)
 - Simplicity over complexity
