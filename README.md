@@ -49,9 +49,9 @@ public class JuanManuel {
 ![Testcontainers](https://img.shields.io/badge/-Testcontainers-232733?style=for-the-badge&logo=developmentcontainers&logoColor=green)
 
 ### Security & Governance
-- IT Risk Assessment  
-- Data Risk Assessment (DRA)  
-- Data Governance (Classification, Retention & Deletion)  
-- Secure Software Development Lifecycle  
-- Security Baselines  
+- IT Risk Assessment
+- Data Governance (Classification, Retention & Deletion)
+- Data Risk Assessment (DRA)
+- Security Baselines
+- Secure SDLC
 - DevSecOps Controls
