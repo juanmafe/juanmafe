@@ -19,7 +19,8 @@ public class JuanManuel {
         "Domain Driven Design",
         "Architecture",
         "Secure Development",
-        "Technical Leadership"
+        "Observability",
+        "Leadership"
     };
 
     private final String[] languages = {
@@ -41,11 +42,13 @@ public class JuanManuel {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232733?style=for-the-badge&logo=TypeScript)
 
 ### Technologies
-![Spring Boot](https://img.shields.io/badge/-Spring-232733?style=for-the-badge&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-232733?style=for-the-badge&logo=springboot)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-232733?style=for-the-badge&logo=redhatopenshift&logoColor=red)
+![Micrometer](https://img.shields.io/badge/-Micrometer-232733?style=for-the-badge&logo=spring&logoColor=green)
+![Prometheus](https://img.shields.io/badge/-Prometheus-232733?style=for-the-badge&logo=prometheus&logoColor=orange)
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
 ### Quality & Testing
