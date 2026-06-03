@@ -13,10 +13,10 @@ public class JuanManuel {
 
     private final String[] focusAreas = {
         "Java",
-        "Architecture",
-        "Domain Driven Design",
-        "Secure Development",
         "Test Driven Development",
+        "Domain Driven Design",
+        "Architecture",
+        "Secure Development",
         "Technical Leadership"
     };
 
