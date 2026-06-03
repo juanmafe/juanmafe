@@ -29,7 +29,7 @@ public class JuanManuel {
 ```
 
 ### Languages
-![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=f5f5f5)
+![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-232733?style=for-the-badge&logo=Python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232733?style=for-the-badge&logo=TypeScript)
 
@@ -38,15 +38,8 @@ public class JuanManuel {
 ![Contract-First (OpenAPI/Protocol Buffers)](https://img.shields.io/badge/-Contract%20First%20(OpenAPI/Protocol%20Buffers)-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
+![OpenShift](https://img.shields.io/badge/-OpenShift-232733?style=for-the-badge&logo=redhatopenshift&logoColor=red)
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
-
-### Security & Governance
-![IT Risk](https://img.shields.io/badge/-IT%20Risk-232733?style=for-the-badge&logo=theirishtimes&logoColor=orange)
-![Data Governance](https://img.shields.io/badge/-Data%20Governance-232733?style=for-the-badge&logo=databricks&logoColor=blue)
-![Data Risk (DRA)](https://img.shields.io/badge/-Data%20Risk%20(DRA)-232733?style=for-the-badge&logo=databricks&logoColor=white)
-![Security Baselines](https://img.shields.io/badge/-Security%20Baselines-232733?style=for-the-badge&logo=baseui&logoColor=red)
-![Secure SDLC](https://img.shields.io/badge/-Secure%20SDLC-232733?style=for-the-badge&logo=circleci&logoColor=violet)
-![DevSecOps Controls](https://img.shields.io/badge/-DevSecOps%20Controls-232733?style=for-the-badge&logo=protools&logoColor=blue)
 
 ### Quality & Testing
 ![JUnit](https://img.shields.io/badge/-JUnit-232733?style=for-the-badge&logo=junit5&logoColor=red)
@@ -55,4 +48,10 @@ public class JuanManuel {
 ![Contract Testing (Pact)](https://img.shields.io/badge/-Contract%20Testing%20(Pact)-232733?style=for-the-badge&logo=langchain&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/-Testcontainers-232733?style=for-the-badge&logo=developmentcontainers&logoColor=green)
 
-
+### Security & Governance
+- IT Risk Assessment  
+- Data Risk Assessment (DRA)  
+- Data Governance (Classification, Retention & Deletion)  
+- Secure Software Development Lifecycle  
+- Security Baselines  
+- DevSecOps Controls
