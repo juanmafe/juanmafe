@@ -9,9 +9,9 @@ import lombok.Data;
 public class JuanManuel {
 
     private final String role =
-        "Tech Lead (Java | Architecture & Secure Development)";
+        "Tech Lead | Software Engineer";
 
-    private final String[] expertise = {
+    private final String[] focusAreas = {
         "Java",
         "Architecture",
         "Secure Development",
@@ -27,8 +27,7 @@ public class JuanManuel {
 }
 ```
 
-### About
-Tech Lead building backend systems with a focus on architecture, security and software quality.
+## Tech Lead building backend systems with a focus on architecture, security and quality
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,10 +43,13 @@ Tech Lead building backend systems with a focus on architecture, security and so
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
 ### Quality & Testing
-- Dynamic Test Data (Instancio)
-- Mutation Testing (PITest)
+- Integration Testing (Testcontainers)
 - Contract Testing (Pact)
-- Testcontainers
+- Mutation Testing (PITest)
+- Dynamic Test Data (Instancio)
+
+
+
 
 ### Security & Governance
 - IT Risk Assessment
