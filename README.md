@@ -30,12 +30,12 @@ public class JuanManuel {
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=f5f5f5)
-![Python](https://img.shields.io/badge/-Python-232733?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-232733?style=for-the-badge&logo=Python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232733?style=for-the-badge&logo=TypeScript)
 
 ### Technologies
 ![Spring Boot](https://img.shields.io/badge/-Spring-232733?style=for-the-badge&logo=Spring)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
+![Contract-First](https://img.shields.io/badge/-Contract%20First-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-232733?style=for-the-badge&logo=Kubernetes)
