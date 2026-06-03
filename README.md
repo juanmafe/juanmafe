@@ -55,7 +55,3 @@ public class JuanManuel {
 ![Contract Testing (Pact)]
 ![Dynamic Testing (Instancio)]
 ![Mutation Testing (PITest)](https://img.shields.io/badge/-Pitest-232733?style=for-the-badge&logo=mocha&logoColor=white)
-
-### Software
-![MacOS](https://img.shields.io/badge/-MacOS-232733?style=for-the-badge&logo=apple&logoColor=F0F0F0)
-![Linux](https://img.shields.io/badge/-Linux-232733?style=for-the-badge&logo=Linux&logoColor=white)
