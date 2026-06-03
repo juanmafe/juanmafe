@@ -14,8 +14,8 @@ public class JuanManuel {
     private final String[] focusAreas = {
         "Java",
         "Architecture",
-        "Secure Development",
         "Domain Driven Design",
+        "Secure Development",
         "Test Driven Development",
         "Technical Leadership"
     };
@@ -28,6 +28,12 @@ public class JuanManuel {
 ```
 
 ## Tech Lead building backend systems with a focus on architecture, security and quality
+
+### Mindset (how I approach systems)
+- Simplicity over complexity
+- Design for maintainability and long-term evolution
+- Security by design
+- System-level thinking over isolated components
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,9 +53,6 @@ public class JuanManuel {
 - Contract Testing (Pact)
 - Mutation Testing (PITest)
 - Dynamic Test Data (Instancio)
-
-
-
 
 ### Security & Governance
 - IT Risk Assessment
