@@ -38,7 +38,6 @@ public class JuanManuel {
 ![Contract-First (OpenAPI/Protocol Buffers)](https://img.shields.io/badge/-Contract%20First%20(OpenAPI/Protocol%20Buffers)-232733?style=for-the-badge&logo=openapiinitiative&logoColor=green)
 ![Kafka](https://img.shields.io/badge/-Kafka-232733?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/-Docker-232733?style=for-the-badge&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-232733?style=for-the-badge&logo=Kubernetes)
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
 ### Security & Governance
