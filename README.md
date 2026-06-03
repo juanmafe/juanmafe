@@ -61,6 +61,6 @@ public class JuanManuel {
 - IT Risk Assessment
 - Data Governance (Classification, Retention & Deletion)
 - Data Risk Assessment (DRA)
-- Security Baselines
+- Security Baselines (SBL)
 - Secure SDLC
 - DevSecOps Controls
