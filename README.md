@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 
-## Tech Lead with a backend engineering background focused on architecture, security and software quality
+## Tech Lead. Software Engineer. Mostly building backend systems with a strong interest in architecture, security and quality
 
 ```java
 package com.github.juanmafe;
@@ -25,14 +25,14 @@ public class JuanManuel {
 }
 ```
 
-### Mindset (how I approach systems)
+### Mindset (how I approach software)
 - Simplicity over complexity
 - Design for maintainability and long-term evolution
 - Security by design
 - System-level thinking over isolated components
 - Quality as a continuous engineering practice
 
-### Quality & Testing
+### Testing & Quality
 - [Integration Testing](https://testcontainers.com/)
 - [Contract Testing](https://pact.io/)
 - [Mutation Testing](https://pitest.org/)
