@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 
-## Tech Lead. Software Engineer<br/>
+## Tech Lead | Software Engineer<br/>
 ### Mostly building backend systems with a strong interest in architecture, security and quality
 
 ```java
