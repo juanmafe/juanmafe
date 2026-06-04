@@ -44,8 +44,8 @@ public class JuanManuel {
 - [Dynamic Test Data Generation](https://www.instancio.org/)
 
 ### Security & Governance
-- [Data Governance (Classification, Retention & Deletion)](https://www.nist.gov/privacy-framework)
-- [Data Risk & Security Assessment: IAM, CHM, Vulnerabilities...](https://csrc.nist.gov/projects/risk-management)
+- [Data Governance (Modeling, Lifecycle & Golden Sources)](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok)
+- [Data Risk & Security Assessment: (IAM, Vulnerabilities...)](https://csrc.nist.gov/projects/risk-management)
 - [Secure SDLC](https://csrc.nist.gov/Projects/ssdf)
 - [DevSecOps](https://www.nccoe.nist.gov/projects/secure-software-development-security-and-operations-devsecops-practices)
 
