@@ -1,6 +1,7 @@
 <h1> Hi there 👋</h1>
 
-## Tech Lead. Software Engineer. Mostly building backend systems with a strong interest in architecture, security and quality
+## Tech Lead. Software Engineer<br/>
+### Mostly building backend systems with a strong interest in architecture, security and quality
 
 ```java
 package com.github.juanmafe;
