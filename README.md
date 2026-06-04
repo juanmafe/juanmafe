@@ -23,6 +23,11 @@ public class JuanManuel {
         "Observability",
         "Leadership"
     };
+
+    boolean keepItSimple = true;
+    boolean secureByDesign = true;
+    boolean fridayDeployments = false;
+
 }
 ```
 
