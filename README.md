@@ -33,10 +33,10 @@ public class JuanManuel {
 - Quality as a continuous engineering practice
 
 ### Quality & Testing
-- Integration Testing (Testcontainers)
-- Contract Testing (Pact)
-- Mutation Testing (PITest)
-- Dynamic Test Data (Instancio)
+- [Integration Testing](https://testcontainers.com/)
+- [Contract Testing](https://pact.io/)
+- [Mutation Testing](https://pitest.org/)
+- [Dynamic Test Data Generation](https://www.instancio.org/)
 
 ### Security & Governance
 - IT Risk
