@@ -24,19 +24,18 @@ public class JuanManuel {
         "Leadership"
     };
 
-    boolean keepItSimple = true;
-    boolean secureByDesign = true;
-    boolean fridayDeployments = false;
+    private final boolean secureByDesign = true;
+    private final boolean fridayDeployments = false;
 
 }
 ```
 
-### Mindset (how I approach software)
+### How I approach software
 - Simplicity over complexity
-- Design for maintainability and long-term evolution
+- Build for long-term maintainability
 - Security by design
-- System-level thinking over isolated components
-- Quality as a continuous engineering practice
+- System-level thinking
+- Quality as a continuous practice
 
 ### Testing & Quality
 - [Integration Testing](https://testcontainers.com/)
@@ -45,12 +44,10 @@ public class JuanManuel {
 - [Dynamic Test Data Generation](https://www.instancio.org/)
 
 ### Security & Governance
-- IT Risk
-- Data Governance (Classification, Retention & Deletion)
-- Data Risk Assessment
-- Security Baselines
-- Secure SDLC
-- DevSecOps
+- [Data Governance (Classification, Retention & Deletion)](https://www.nist.gov/privacy-framework)
+- [Data Risk & Security Assessment: IAM, CHM, Vulnerabilities...](https://csrc.nist.gov/projects/risk-management)
+- [Secure SDLC](https://csrc.nist.gov/Projects/ssdf)
+- [DevSecOps](https://www.nccoe.nist.gov/projects/secure-software-development-security-and-operations-devsecops-practices)
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-232733?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,4 +62,5 @@ public class JuanManuel {
 ![OpenShift](https://img.shields.io/badge/-OpenShift-232733?style=for-the-badge&logo=redhatopenshift&logoColor=red)
 ![Azure](https://img.shields.io/badge/-Azure-232733?style=for-the-badge&logo=akiflow&logoColor=blue)
 
-
+---
+If you're reading this, have a great day 🙂
